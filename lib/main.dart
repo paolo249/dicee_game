@@ -16,8 +16,18 @@ void main() {
 }
 
 class DicePage extends StatelessWidget {
+  const DicePage({super.key});
+
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return const Row(
+      children: <Widget>[
+        Expanded(
+          child: Image(
+            image: AssetImage('images/dice1.png'),
+            ),
+        ),
+      ],
+    );
   }
 }
