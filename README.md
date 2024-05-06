@@ -21,7 +21,7 @@ https://lucid.app/lucidchart/b3db1c38-7c0f-4079-a981-82431196734f/edit?viewport_
 
 ☐ Screenshot(s): 
 
-![dicee_game](https://imgur.com/a/XQoxYGF)
+![dicee_game](https://i.imgur.com/a/XQoxYGF.png)
 
 
 ☐ Technologies Used: 
