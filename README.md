@@ -20,6 +20,8 @@ https://lucid.app/lucidchart/b3db1c38-7c0f-4079-a981-82431196734f/edit?viewport_
 
 
 ☐ Screenshot(s): 
+![Alt text](/images/DiceeGameVid1.mp4 "Optional Title")
+
 
 
 ☐ Technologies Used: 

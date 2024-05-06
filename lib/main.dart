@@ -41,7 +41,7 @@ class _DicePageState extends State<DicePage> {
             padding: const EdgeInsets.all(8.0),
             child: TextButton(onPressed: () {
               setState(() {
-                leftDiceNumber = Random().nextInt(6)+1;
+                leftDiceNumber = Random().nextInt(6)+1; // Generate numbers between 0 and 5 plus 1 so 1 to 6
               
               });
                
